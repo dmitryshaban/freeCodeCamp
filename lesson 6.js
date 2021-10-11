@@ -5,5 +5,5 @@ var titleCaseOver;
 
 // Variable assignments
 studlyCapVar = 10;
-roperCamelCase = "A String";
+roperCamelCase = "A String, little test change";
 titleCaseOve = 9000;
